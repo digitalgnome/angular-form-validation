@@ -43,6 +43,14 @@ th, td {
   width: 20%;
 }
 
+a {
+  display: block;
+  font-weight: 700;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 480px) {
 
 .panel-body {
